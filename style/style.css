@@ -28,6 +28,9 @@
 .lq-bg-color-EFEFEF {
   background: #efefef;
 }
+.lq-14 {
+  font-size: 14px;
+}
 .lq-16 {
   font-size: 16px;
 }
@@ -36,6 +39,18 @@
 }
 .lq-20 {
   font-size: 20px;
+}
+.lq-20 {
+  font-size: 20px;
+}
+.lq-23 {
+  font-size: 23px;
+}
+.lq-25 {
+  font-size: 25px;
+}
+.lq-26 {
+  font-size: 26px;
 }
 .lq-27 {
   font-size: 27px;
@@ -52,12 +67,15 @@
 .lq-36 {
   font-size: 36px;
 }
+.lq-38 {
+  font-size: 38px;
+}
 .lq-58 {
   font-size: 58px;
 }
 .poppins-bold {
   font-family: "Poppins", sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   font-style: normal;
 }
 .poppins-Regular {
@@ -67,7 +85,7 @@
 }
 .astoria-Medium {
     font-family: "astoria-sans", sans-serif;
-    font-weight: 500;
+    font-weight: 400;
     font-style: normal;
 }
 .Montserrat-Bold {
@@ -118,8 +136,6 @@
 }
 .features-header {
   text-align: center;
-  margin-top: 50px;
-  margin-bottom: 50px;
 }
 .feature-item {
   display: flex;
@@ -168,9 +184,9 @@
   .amazing-img {
     max-width: 32rem;
   }
-  .feature-hsize {
+  /* .feature-hsize {
     font-size: 25px;
-  }
+  } */
 }
 @media (max-width: 992px) {
   .hero {
@@ -208,9 +224,9 @@
     height: auto;
   }
 
-  .feature-hsize {
+  /* .feature-hsize {
     font-size: 18px;
-  }
+  } */
 
   .font-head {
     font-size: 22px;
@@ -234,9 +250,9 @@
   .amazing-img {
     max-width: 18rem;
   }
-  .feature-hsize {
+  /* .feature-hsize {
     font-size: 30px;
-  }
+  } */
   .btn-search {
     margin: 10px 0 0;
     width: 100%;
