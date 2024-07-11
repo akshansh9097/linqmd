@@ -23,7 +23,8 @@
   color: #e3f4ff;
 }
 .lq-bg-color-E3F4FF {
-  background: linear-gradient(180deg, #ff1616 0%, #e03f3f 60%, #ee4c4c 100%) 0% 0%;
+  background: linear-gradient(180deg, #ff1616 0%, #e03f3f 60%, #ee4c4c 100%) 0%
+    0%;
 }
 .lq-bg-color-EFEFEF {
   background: #efefef;
@@ -84,9 +85,9 @@
   font-style: normal;
 }
 .astoria-Medium {
-    font-family: "astoria-sans", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+  font-family: "astoria-sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 .Montserrat-Bold {
   font-family: "Montserrat", sans-serif;
@@ -105,7 +106,7 @@
   /* background-position: center; */
 }
 .hero {
-  width: 59rem;
+  width: 46rem;
   text-align: center;
   padding-bottom: 50px;
 }
